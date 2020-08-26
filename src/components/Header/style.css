@@ -1,0 +1,10 @@
+
+.header-container{
+    position: absolute;
+    margin:0;
+    background:transparent;
+    width: 100%;
+    padding: 16px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
