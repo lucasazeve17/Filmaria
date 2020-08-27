@@ -1,0 +1,24 @@
+
+.carousel-container{
+    padding: 16px;
+}
+.slide{
+    margin:16px;
+
+}
+.carousel-container h2{
+    z-index: 1;
+    color:#f9f9f9;
+    margin:4px;
+    margin-top: 0px;
+}
+.item-slide{
+    position:relative
+}
+.item-slide img{
+    margin: 4px;
+}
+img{
+width: 100%;
+padding: 4px;
+}

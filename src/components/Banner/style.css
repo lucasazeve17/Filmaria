@@ -1,12 +1,25 @@
 .banner-container{
-    
-    height: 600px;
+    height: 650px;
     
 }
 .banner-content{
+    z-index: 0;
+    position: relative;
     background: url('../../assets//pexels-simon-migaj-747964.jpg') center center;
     height: 100%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+.banner-content .sub{
+    position: absolute;
+    margin: 0 16px;
+    color: #f9f9f9;
+    bottom: 50px;
+}
+.banner-content p{
+    width: 350px;
+    font-size: 26px;
+    color: #fff;
+    bottom: 20px;
 }

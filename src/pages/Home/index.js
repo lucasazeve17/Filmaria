@@ -1,12 +1,16 @@
 import React from 'react'
 import Banner from '../../components/Banner'
-import Carrousel from '../../components/Carrousel'
+import Carousel from '../../components/Carousel'
 
 export default function Home(){
     return(
         <div>
             <Banner/>
-            <Carrousel/>
+            <Carousel/>
+            <Carousel/>
+            <Carousel/>
+            <Carousel/>
+
             Homew
         </div>
     )
